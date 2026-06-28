@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470">
+  <defs><linearGradient id="film" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e0f2fe"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#bae6fd"/></linearGradient></defs>
+  <rect width="700" height="470" rx="32" fill="#f8fafc"/>
+  <rect x="282" y="58" width="136" height="350" rx="68" fill="url(#film)" stroke="#cbd5e1" stroke-width="6"/>
+  <rect x="316" y="76" width="68" height="314" rx="34" fill="#fff" opacity=".45"/>
+  <ellipse cx="350" cy="84" rx="60" ry="23" fill="#d6b98c"/>
+  <ellipse cx="350" cy="84" rx="34" ry="13" fill="#7c5c34" opacity=".55"/>
+  <path d="M428 260c100 10 138 41 145 83H382c-9-47 7-75 46-83z" fill="#dbeafe" opacity=".6"/>
+  <rect x="110" y="345" width="200" height="34" rx="17" fill="#0f766e" opacity=".16"/>
+</svg>

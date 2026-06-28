@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470">
+  <rect width="700" height="470" rx="32" fill="#f8fafc"/>
+  <path d="M180 160h340v210H180z" fill="#d9a85f" stroke="#b7791f" stroke-width="7"/>
+  <path d="M180 160l70-70h340l-70 70z" fill="#efc785" stroke="#b7791f" stroke-width="7"/>
+  <path d="M520 160l70-70v210l-70 70z" fill="#c98a37" stroke="#b7791f" stroke-width="7"/>
+  <path d="M350 160v210M250 90l-70 70" stroke="#7c2d12" stroke-width="8" opacity=".35"/>
+  <rect x="238" y="236" width="222" height="42" rx="12" fill="#fff" opacity=".75"/>
+</svg>
